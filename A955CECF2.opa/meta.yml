@@ -1,0 +1,22 @@
+id: A955CECF2
+title: Toh_498-Tantra_of_the_Blue-Clad_Vajrapani-v1
+type: translation
+pechas:
+- I85DC3838
+- I6CF42067
+source_metadata:
+  creationtool: 84000-translation-memory
+  creationtoolversion: 1.0.0.0
+  datatype: PlainText
+  segtype: phrase
+  adminlang: en
+  srclang: bo
+  o-tmf: TEI
+  creationdate: '2018-09-22T23:19:33.676Z'
+  creationid: S.J.
+  eft-text-id: UT22084-087-003
+  xmlns-eft: http://read.84000.co/ns/1.0
+  title: Toh_498-Tantra_of_the_Blue-Clad_Vajrapani-v1
+alignment_to_base:
+  I85DC3838/FF44: BFD5
+  I6CF42067/B49C: BFD5
